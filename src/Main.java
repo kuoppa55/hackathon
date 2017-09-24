@@ -20,7 +20,8 @@ public class Main
             Arrays.asList("Bernie Sanders", "Vermin Supreme", "Bucky Badger", "Jesus Christ"));
     public static void main(String[] args)
     {
-        println("DISCLAIMER: This is a work in progress; the democrat path is the only one that works so far.");
+        println("This is a work in progress; the democrat path is the only one that works so far.");
+        
         println("THE YEAR IS 2024. AMERICA IS IN CHAOS. THE CANDIDATES ARE TERRIBLE. ONLY YOU CAN SAVE AMERICA BY BECOMING THE NEXT PRESIDENT.");
         println("ENTER YOUR FIRST NAME: ");
         firstName = scnr.nextLine();
